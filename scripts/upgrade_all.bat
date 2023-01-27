@@ -1,2 +1,2 @@
-# upgrade all existing software
+:: upgrade all existing software
 winget upgrade -r

@@ -1,2 +1,2 @@
-# uninstall cortana
+:: uninstall cortana
 winget uninstall cortana

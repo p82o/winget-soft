@@ -1,21 +1,21 @@
 
-# Skype
+:: Skype
 winget install -e --id Microsoft.Skype
 
-# Google Chrome
+:: Google Chrome
 winget install -e --id Google.Chrome
 
-# 7-zip
+:: 7-zip
 winget install -e --id 7zip.7zip
 
-# Adobe Acrobat Reader
+:: Adobe Acrobat Reader
 winget install -e --id Adobe.Acrobat.Reader.64-bit
 
-# FastStone Image Viewer
+:: FastStone Image Viewer
 winget install -e --id FastStone.Viewer
 
-# Daum PotPlayer
+:: Daum PotPlayer
 winget install -e --id Daum.PotPlayer
 
-# Unchecky
+:: Unchecky
 winget install -e --id Unchecky.Unchecky
