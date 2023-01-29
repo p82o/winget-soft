@@ -1,2 +1,2 @@
 :: upgrade all existing software
-winget upgrade -r
+winget upgrade --all
