@@ -1,9 +1,11 @@
-
 :: Skype
 winget install -e --id Microsoft.Skype
 
 :: Google Chrome
 winget install -e --id Google.Chrome
+
+:: Yandex Browser
+winget install -e --id Yandex.Browser
 
 :: 7-zip
 winget install -e --id 7zip.7zip
